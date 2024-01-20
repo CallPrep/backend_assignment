@@ -5,6 +5,7 @@
 - ### Use any of the backend libraries you are comfortable with (django, flask, node etc.)
 - ### Deadline is 11 PM, January 21, 2024
 - ### Use any Database you are comfortable with (default database files that comes with some technologies are also sufficient)
+- ### Sample data is present in this repo as `endpoint1_data.csv` and `endpoint2_data.csv`. 
 
 ## Part 1
 ### Create two POST endpoints to accept data in the specified formats.
@@ -101,15 +102,14 @@
     
     -   Create a GET endpoint to retrieve the aggregated data, formatted appropriately (e.g., JSON).
     
-4.  **Database Queries:**
-    
-    -   Write efficient SQL queries to calculate the required averages.
-    -   Consider using aggregate functions like AVG and JOINs to combine data from multiple tables.
     
 6.  **Data Storage:**
     
     -   Decide how to store the calculated averages in the database.
 
 
+**Submission details are present in the Email**
 
 If you have any doubts or clarifications regarding the assignment reach out to   [nikhil@callprep.io](user@example.com)
+
+
