@@ -108,4 +108,8 @@
     
 6.  **Data Storage:**
     
-    -   Decide how to store the calculated averages in the database:
+    -   Decide how to store the calculated averages in the database.
+
+
+
+If you have any doubts or clarifications regarding the assignment reach out to   [nikhil@callprep.io](user@example.com)
