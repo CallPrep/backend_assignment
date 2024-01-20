@@ -4,8 +4,7 @@
 ## Note
 - ### Use any of the backend libraries you are comfortable with (django, flask, node etc.)
 - ### Deadline is 11 PM, January 21, 2024
-- ### Use any Database you are comfortable with (default database files that comes with some technologies are also sufficient)
-- ### Sample data is present in this repo as `endpoint1_data.csv` and `endpoint2_data.csv`. 
+- ### Use any Database you are comfortable with (default database files that comes with some technologies are also sufficient) 
 
 ## Part 1
 ### Create two POST endpoints to accept data in the specified formats.
